@@ -5,7 +5,7 @@ Tested with version 1.9.6
 
 How to
 -----------
-1. Include [`Toast`](src/cz/tchalupnik/libgdx/Toast.java) in your LibGDX proect
+1. Include [`Toast`](src/cz/tchalupnik/libgdx/Toast.java) in your LibGDX project
 2. Create `ToastFactory` for your toasts (using `Builder`):
 ```java
 Toast.ToastFactory toastFactory = new Toast.ToastFactory.Builder()
